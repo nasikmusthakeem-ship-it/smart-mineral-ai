@@ -1,0 +1,5 @@
+.venv/
+.venv-1/
+uploads/
+dataset/
+__pycache__/
